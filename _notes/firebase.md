@@ -6,5 +6,5 @@
 
 3. Register app under Project settings. copy 
 
-4. Enable auth in firebase.
+4. Enable auth in under Authentication.
 
