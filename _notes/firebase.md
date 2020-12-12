@@ -8,3 +8,9 @@
 
 4. Enable auth in under Authentication.
 
+
+
+
+## Access database
+use-content.js
+
