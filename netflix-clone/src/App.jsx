@@ -8,7 +8,7 @@ export default function App() {
   return (
     <Router>
       <Switch>
-        <Route path={ROUTES.HOME} component={Home} />
+        <Route path={ROUTES.HOME} exact component={Home} />
         <Route path={ROUTES.BROWSE} component={Browse} />
         <Route path={ROUTES.SIGN_IN} component={SignIn} />
         <Route path={ROUTES.SIGN_UP} component={SignUp} />
