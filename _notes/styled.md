@@ -30,3 +30,10 @@ export const Container = styled.div`
   }
 `;
 ```
+
+style React component
+```
+  export const ButtonLink = styled(Link)`
+
+  `;
+```
